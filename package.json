@@ -1,0 +1,23 @@
+{
+  "name": "node_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahlovez/node_blog.git"
+  },
+  "keywords": [
+    "blogging",
+    "website"
+  ],
+  "author": "Shahlo Ovezniyazova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahlovez/node_blog/issues"
+  },
+  "homepage": "https://github.com/Shahlovez/node_blog#readme"
+}
